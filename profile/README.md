@@ -4,9 +4,9 @@ This GitHub organization provides resources and project planning tools for the C
 
 ## Repositories
 
-- [Project-board](https://github.com/czi-catalyst/project/project-board) Private repository for cross-team collaboration and organization. Please contact the project manager if you can't see this repository so we can add you to this GitHub organization.
+- [Project-board](https://github.com/czi-catalystproject/project-board) Private repository for cross-team collaboration and organization. Please contact the project manager if you can't see this repository so we can add you to this GitHub organization.
 
-- [catalyst-project](https://github.com/czi-catalyst/project/catalyst-project) Public repository that hosts our project website https://czi-catalystproject.github.io/catalyst-project/
+- [catalyst-project](https://github.com/czi-catalystproject/catalyst-project) Public repository that hosts our project website https://czi-catalystproject.github.io/catalyst-project/
 
 
 ## Resources
